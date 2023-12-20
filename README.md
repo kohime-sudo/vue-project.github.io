@@ -1,3 +1,5 @@
+![Capture d'écran 2023-11-14 212401](https://github.com/kohime-sudo/vue-project.github.io/assets/135821204/04fbea27-16d6-4642-b724-94b06932e048)
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
